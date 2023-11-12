@@ -1,0 +1,14 @@
+C:\Users\Adil\Desktop\OnlineTask\obj\Debug\net6.0\OnlineTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\Desktop\OnlineTask\obj\Debug\net6.0\OnlineTask.AssemblyInfoInputs.cache
+C:\Users\Adil\Desktop\OnlineTask\obj\Debug\net6.0\OnlineTask.AssemblyInfo.cs
+C:\Users\Adil\Desktop\OnlineTask\obj\Debug\net6.0\OnlineTask.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Desktop\OnlineTask\bin\Debug\net6.0\OnlineTask.exe
+C:\Users\Adil\Desktop\OnlineTask\bin\Debug\net6.0\OnlineTask.deps.json
+C:\Users\Adil\Desktop\OnlineTask\bin\Debug\net6.0\OnlineTask.runtimeconfig.json
+C:\Users\Adil\Desktop\OnlineTask\bin\Debug\net6.0\OnlineTask.dll
+C:\Users\Adil\Desktop\OnlineTask\bin\Debug\net6.0\OnlineTask.pdb
+C:\Users\Adil\Desktop\OnlineTask\obj\Debug\net6.0\OnlineTask.dll
+C:\Users\Adil\Desktop\OnlineTask\obj\Debug\net6.0\refint\OnlineTask.dll
+C:\Users\Adil\Desktop\OnlineTask\obj\Debug\net6.0\OnlineTask.pdb
+C:\Users\Adil\Desktop\OnlineTask\obj\Debug\net6.0\OnlineTask.genruntimeconfig.cache
+C:\Users\Adil\Desktop\OnlineTask\obj\Debug\net6.0\ref\OnlineTask.dll
